@@ -40,7 +40,7 @@ btn.addEventListener('click', function () {
                 alert(randomNumber(1111,9999));
             }, 500)
         } else {
-            alert('неправильный номер телефона')
+            alert('номер телефона должен состоять из 9 чисел')
         }
     }
 
